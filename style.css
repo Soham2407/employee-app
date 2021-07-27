@@ -1,0 +1,27 @@
+#save-btn {
+  margin-left: 1rem;
+  display: none;
+}
+
+.table {
+  margin-top: 1rem;
+}
+
+h1 {
+  text-align: center;
+  margin: 1rem;
+}
+
+button {
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.5);
+  transition: button 0.3s ease-in;
+  outline: none;
+}
+
+button:active {
+  transform: scaleY(1.2px);
+}
+
+button:focus {
+  outline: none;
+}
